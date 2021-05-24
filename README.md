@@ -9,6 +9,10 @@ HTML StripTags for Go
 
 This is a Go package containing an extracted version of the unexported `stripTags` function in `html/template/html.go`.
 
+## Foreground
+
+This is forked from github.com/grokify/html-strip-tags-go
+
 ## Background
 
 * The `stripTags` function in `html/template/html.go` is very useful, however, it is not exported.
