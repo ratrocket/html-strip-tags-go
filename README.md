@@ -1,6 +1,8 @@
 HTML StripTags for Go
 =====================
 
+> **(May 2021)** moved to [md0.org/html-strip-tags-go](https://md0.org/html-strip-tags-go). Use `import md0.org/html-strip-tags-go`
+
 [![Go Report Card][goreport-svg]][goreport-link]
 [![Build Status][build-status-svg]][build-status-link]
 [![Code Climate][codeclimate-status-svg]][codeclimate-status-link]
